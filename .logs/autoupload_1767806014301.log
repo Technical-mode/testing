@@ -1,0 +1,697 @@
+[2026-01-07T17:13:34.342Z] [LOG] fullPath C:\Users\Admin\Desktop\service.conf.lock
+[2026-01-07T17:13:35.135Z] [LOG] fullPath C:\Users\Admin\Desktop\School.txt
+[2026-01-07T17:13:35.343Z] [LOG] fullPath C:\Users\Admin\Desktop\PotPlayer.lnk
+[2026-01-07T17:13:35.344Z] [LOG] fullPath C:\Users\Admin\Desktop\desktop.ini
+[2026-01-07T17:13:35.556Z] [LOG] fullPath C:\Users\Admin\Desktop\AnyDesk.exe
+[2026-01-07T17:13:35.557Z] [LOG] fullPath C:\Users\Admin\Desktop\17297.jpg
+[2026-01-07T17:13:39.149Z] [LOG] fullPath C:\Users\Admin\Documents\My Videos
+[2026-01-07T17:13:39.153Z] [WARN] Permission denied for C:\Users\Admin\Documents\My Videos: EPERM: operation not permitted, scandir 'C:\Users\Admin\Documents\My Videos'
+[2026-01-07T17:13:39.215Z] [LOG] fullPath C:\Users\Admin\Documents\My Pictures
+[2026-01-07T17:13:39.218Z] [WARN] Permission denied for C:\Users\Admin\Documents\My Pictures: EPERM: operation not permitted, scandir 'C:\Users\Admin\Documents\My Pictures'
+[2026-01-07T17:13:39.219Z] [LOG] fullPath C:\Users\Admin\Documents\My Music
+[2026-01-07T17:13:39.222Z] [WARN] Permission denied for C:\Users\Admin\Documents\My Music: EPERM: operation not permitted, scandir 'C:\Users\Admin\Documents\My Music'
+[2026-01-07T17:13:39.223Z] [LOG] fullPath C:\Users\Admin\Documents\desktop.ini
+[2026-01-07T17:13:39.488Z] [LOG] fullPath C:\Users\Admin\Downloads\завантаження.htm
+[2026-01-07T17:13:42.018Z] [LOG] fullPath C:\Users\Admin\Downloads\VSCodeUserSetup-x64-1.107.1.exe
+[2026-01-07T17:13:42.019Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa.zip
+[2026-01-07T17:13:49.760Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa
+[2026-01-07T17:13:49.761Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa
+[2026-01-07T17:13:49.763Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\webfonts
+[2026-01-07T17:13:49.766Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\webfonts\fa-v4compatibility.woff2
+[2026-01-07T17:13:50.067Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\webfonts\fa-v4compatibility.ttf
+[2026-01-07T17:13:50.309Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\webfonts\fa-solid-900.woff2
+[2026-01-07T17:13:50.870Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\webfonts\fa-solid-900.ttf
+[2026-01-07T17:13:52.035Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\webfonts\fa-regular-400.woff2
+[2026-01-07T17:13:52.299Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\webfonts\fa-regular-400.ttf
+[2026-01-07T17:13:52.722Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\webfonts\fa-brands-regular.woff2
+[2026-01-07T17:13:52.958Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\webfonts\fa-brands-400.woff2
+[2026-01-07T17:13:53.321Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\webfonts\fa-brands-400.ttf
+[2026-01-07T17:13:53.831Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\vite.config.js
+[2026-01-07T17:13:54.041Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\tailwind.config.js
+[2026-01-07T17:13:54.266Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src
+[2026-01-07T17:13:54.269Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\pages
+[2026-01-07T17:13:54.273Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\pages\PropertyDetail.jsx
+[2026-01-07T17:13:54.558Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\pages\Property3D.jsx
+[2026-01-07T17:13:54.876Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\pages\Properties.jsx
+[2026-01-07T17:13:55.125Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\pages\Privacy.jsx
+[2026-01-07T17:13:55.351Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\pages\NotFound.jsx
+[2026-01-07T17:13:55.571Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\pages\Home.jsx
+[2026-01-07T17:13:55.830Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\pages\FAQ.jsx
+[2026-01-07T17:13:56.075Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\pages\BlogPost.jsx
+[2026-01-07T17:13:56.312Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\pages\Blog.jsx
+[2026-01-07T17:13:56.537Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\pages\About.jsx
+[2026-01-07T17:13:56.771Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\main.jsx
+[2026-01-07T17:13:56.990Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\index.css
+[2026-01-07T17:13:57.209Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\components
+[2026-01-07T17:13:57.215Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\components\property
+[2026-01-07T17:13:57.217Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\components\property\Scene.jsx
+[2026-01-07T17:13:57.439Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\components\property\Overlay.jsx
+[2026-01-07T17:13:57.666Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\components\property\Experience.jsx
+[2026-01-07T17:13:57.886Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\components\layout
+[2026-01-07T17:13:57.888Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\components\layout\Navbar.jsx
+[2026-01-07T17:13:58.101Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\components\layout\Footer.jsx
+[2026-01-07T17:13:58.315Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\App.jsx
+[2026-01-07T17:13:58.531Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\src\App.css
+[2026-01-07T17:13:58.741Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server
+[2026-01-07T17:13:58.748Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\utils
+[2026-01-07T17:13:58.754Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\utils\sendToken.js
+[2026-01-07T17:13:58.960Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\utils\sendEmail.js
+[2026-01-07T17:13:59.181Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\utils\searchFeatures.js
+[2026-01-07T17:13:59.398Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\utils\jwtToken.js
+[2026-01-07T17:13:59.611Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\utils\errorHandler.js
+[2026-01-07T17:13:59.821Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\utils\apiFeatures.js
+[2026-01-07T17:14:00.036Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\server.js
+[2026-01-07T17:14:00.251Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\routes
+[2026-01-07T17:14:00.253Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\routes\userRoute.js
+[2026-01-07T17:14:00.476Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\routes\productRoute.js
+[2026-01-07T17:14:00.700Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\routes\paymentRoute.js
+[2026-01-07T17:14:00.916Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\routes\orderRoute.js
+[2026-01-07T17:14:01.131Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\public
+[2026-01-07T17:14:01.134Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models
+[2026-01-07T17:14:01.137Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\WishList.js
+[2026-01-07T17:14:01.344Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\userModel.js
+[2026-01-07T17:14:01.571Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\User.js
+[2026-01-07T17:14:01.797Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\SuggestKeywords.js
+[2026-01-07T17:14:02.011Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\SocketMapping.js
+[2026-01-07T17:14:02.217Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Review.js
+[2026-01-07T17:14:02.431Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Remark.js
+[2026-01-07T17:14:02.655Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\RefereshToken.js
+[2026-01-07T17:14:02.866Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\QnA.js
+[2026-01-07T17:14:03.086Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\productModel.js
+[2026-01-07T17:14:03.305Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\ProductImages.js
+[2026-01-07T17:14:03.525Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\ProductBrand.js
+[2026-01-07T17:14:03.730Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Product.js
+[2026-01-07T17:14:03.980Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\paymentModel.js
+[2026-01-07T17:14:04.264Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Payment.js
+[2026-01-07T17:14:04.518Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\orderModel.js
+[2026-01-07T17:14:04.741Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Order.js
+[2026-01-07T17:14:04.975Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Notification.js
+[2026-01-07T17:14:05.196Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\minedProduct.js
+[2026-01-07T17:14:05.406Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\ManualOrder.js
+[2026-01-07T17:14:05.614Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Lead.js
+[2026-01-07T17:14:05.831Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Districts.js
+[2026-01-07T17:14:06.044Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Dispatcher.js
+[2026-01-07T17:14:06.328Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Category.js
+[2026-01-07T17:14:06.551Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Cart.js
+[2026-01-07T17:14:06.766Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\BusinessInfo.js
+[2026-01-07T17:14:06.986Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Banner.js
+[2026-01-07T17:14:07.206Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\AdminWarehouse.js
+[2026-01-07T17:14:07.429Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\AdminFiles.js
+[2026-01-07T17:14:07.900Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\AdminBank.js
+[2026-01-07T17:14:08.120Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Admin.js
+[2026-01-07T17:14:08.375Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\models\Address.js
+[2026-01-07T17:14:08.590Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares
+[2026-01-07T17:14:08.593Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\validator
+[2026-01-07T17:14:08.595Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\validator\index.js
+[2026-01-07T17:14:08.839Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\validator\errorHandler.js
+[2026-01-07T17:14:09.099Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\user_actions
+[2026-01-07T17:14:09.103Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\user_actions\userHas.js
+[2026-01-07T17:14:09.330Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\user_actions\getRatingInfo.js
+[2026-01-07T17:14:09.547Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\user_actions\auth.js
+[2026-01-07T17:14:09.756Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\helpers
+[2026-01-07T17:14:09.758Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\helpers\waterMarker.js
+[2026-01-07T17:14:09.971Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\helpers\multer.js
+[2026-01-07T17:14:10.196Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\helpers\mailer.js
+[2026-01-07T17:14:10.416Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\helpers\imageCompressor.js
+[2026-01-07T17:14:10.634Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\helpers\geoDistance.js
+[2026-01-07T17:14:10.976Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\helpers\fileRemover.js
+[2026-01-07T17:14:11.278Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\helpers\dbErrorHandler.js
+[2026-01-07T17:14:11.495Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\helpers\dbConnection.js
+[2026-01-07T17:14:11.706Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\helpers\createNotification.js
+[2026-01-07T17:14:12.037Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\helpers\asyncErrorHandler.js
+[2026-01-07T17:14:12.250Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\common
+[2026-01-07T17:14:12.252Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\middlewares\common\index.js
+[2026-01-07T17:14:12.464Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data
+[2026-01-07T17:14:12.466Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\util
+[2026-01-07T17:14:12.468Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\util\path.js
+[2026-01-07T17:14:12.674Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\util\fileDelete.js
+[2026-01-07T17:14:12.886Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\products.json
+[2026-01-07T17:14:13.095Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\invoice
+[2026-01-07T17:14:13.171Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\invoice\invoice-5f156c42e74db20a30e0b5b0.pdf
+[2026-01-07T17:14:13.377Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\invoice\invoice-5f0da2c500b7001ab054bcaf.pdf
+[2026-01-07T17:14:13.590Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\invoice\invoice-5f09c880622ce4371411fb65.pdf
+[2026-01-07T17:14:13.808Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\invoice\invoice-5f096ef911137b230cccbcde.pdf
+[2026-01-07T17:14:14.028Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\images
+[2026-01-07T17:14:14.033Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\images\travel_macbookpro13_front.png
+[2026-01-07T17:14:15.722Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\images\1594739262021-61TAggR+upL._AC_SL1500_.jpg
+[2026-01-07T17:14:16.097Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\images\1594739168624-61NwNFbA9FL._AC_SL1000_.jpg
+[2026-01-07T17:14:16.457Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\images\1594739091288-716irmhfMkL._AC_SL1500_.jpg
+[2026-01-07T17:14:16.813Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\images\1594738887088-81+WmLbpzvL._AC_SL1500_.jpg
+[2026-01-07T17:14:17.131Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\images\1594738805136-71htAr2SpBL._AC_SL1500_.jpg
+[2026-01-07T17:14:17.499Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\images\1594728821919-714hGsMXZaL._AC_UX679_.jpg
+[2026-01-07T17:14:17.820Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\images\1594728176097-61zBrD4EswL._AC_SL1500_.jpg
+[2026-01-07T17:14:18.186Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\data\cart.json
+[2026-01-07T17:14:18.408Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\controllers
+[2026-01-07T17:14:18.410Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\controllers\userController.js
+[2026-01-07T17:14:18.645Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\controllers\productController.js
+[2026-01-07T17:14:18.892Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\controllers\paymentController.js
+[2026-01-07T17:14:19.244Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\controllers\orderController.js
+[2026-01-07T17:14:19.507Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\config
+[2026-01-07T17:14:19.509Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\config\database.js
+[2026-01-07T17:14:19.731Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\config\config.env.example
+[2026-01-07T17:14:19.978Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\server\app.js
+[2026-01-07T17:14:20.185Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\README.md
+[2026-01-07T17:14:20.408Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\public
+[2026-01-07T17:14:20.409Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\postcss.config.js
+[2026-01-07T17:14:20.619Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\package.json
+[2026-01-07T17:14:20.834Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\package-lock.json
+[2026-01-07T17:14:22.091Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\node_modules
+[2026-01-07T17:14:22.092Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\index.html
+[2026-01-07T17:14:22.301Z] [LOG] fullPath C:\Users\Admin\Downloads\royalcity-workspace-royalcity-poc-1aeb42116aaa\royalcity-workspace-royalcity-poc-1aeb42116aaa\.vscode
+[2026-01-07T17:14:22.302Z] [LOG] fullPath C:\Users\Admin\Downloads\node-v20.19.6-x64.msi
+[2026-01-07T17:14:22.302Z] [LOG] fullPath C:\Users\Admin\Downloads\KMSAuto-Lite-Portable-v1.2.1_myfreeproject.com.rar
+[2026-01-07T17:14:29.550Z] [LOG] fullPath C:\Users\Admin\Downloads\desktop.ini
+[2026-01-07T17:14:29.759Z] [LOG] fullPath C:\Users\Admin\Downloads\ChromeSetup.exe
+[2026-01-07T17:14:29.760Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358.zip
+[2026-01-07T17:14:29.761Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358
+[2026-01-07T17:14:29.763Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\tsconfig.json
+[2026-01-07T17:14:29.975Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src
+[2026-01-07T17:14:29.977Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\views
+[2026-01-07T17:14:29.980Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\views\sell
+[2026-01-07T17:14:29.983Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\views\sell\Sell.tsx
+[2026-01-07T17:14:30.220Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\views\login
+[2026-01-07T17:14:30.222Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\views\login\LoginField.tsx
+[2026-01-07T17:14:30.439Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\views\login\Login.tsx
+[2026-01-07T17:14:30.655Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\views\dashboard
+[2026-01-07T17:14:30.656Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\views\dashboard\Dashboard.tsx
+[2026-01-07T17:14:30.887Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\utils
+[2026-01-07T17:14:30.888Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\utils\util.js
+[2026-01-07T17:14:31.101Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\utils\cookie.js
+[2026-01-07T17:14:31.311Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\utils\api.js
+[2026-01-07T17:14:31.525Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\theme
+[2026-01-07T17:14:31.526Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store
+[2026-01-07T17:14:31.530Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\tickets
+[2026-01-07T17:14:31.534Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\tickets\types.ts
+[2026-01-07T17:14:31.750Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\tickets\selectors.ts
+[2026-01-07T17:14:31.970Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\tickets\index.ts
+[2026-01-07T17:14:32.185Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\tickets\actions.ts
+[2026-01-07T17:14:32.391Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\store.ts
+[2026-01-07T17:14:32.610Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\hooks.ts
+[2026-01-07T17:14:32.824Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\chat
+[2026-01-07T17:14:32.826Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\chat\selectors.ts
+[2026-01-07T17:14:33.031Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\chat\index.ts
+[2026-01-07T17:14:33.250Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\chat\actions.ts
+[2026-01-07T17:14:33.459Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\blogs
+[2026-01-07T17:14:33.460Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\blogs\types.ts
+[2026-01-07T17:14:33.665Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\blogs\selectors.ts
+[2026-01-07T17:14:33.875Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\blogs\index.ts
+[2026-01-07T17:14:34.081Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\blogs\actions.ts
+[2026-01-07T17:14:34.295Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\auth
+[2026-01-07T17:14:34.297Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\auth\types.ts
+[2026-01-07T17:14:34.507Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\auth\selectors.ts
+[2026-01-07T17:14:34.716Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\auth\index.ts
+[2026-01-07T17:14:34.925Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\auth\actions.ts
+[2026-01-07T17:14:35.139Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\alert
+[2026-01-07T17:14:35.141Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\alert\types.ts
+[2026-01-07T17:14:35.349Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\alert\selectors.ts
+[2026-01-07T17:14:35.555Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\alert\index.ts
+[2026-01-07T17:14:35.779Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\store\alert\actions.ts
+[2026-01-07T17:14:35.980Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\setupTests.ts
+[2026-01-07T17:14:36.186Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\routes
+[2026-01-07T17:14:36.188Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\routes\Router.tsx
+[2026-01-07T17:14:36.541Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\reportWebVitals.ts
+[2026-01-07T17:14:36.746Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\react-app-env.d.ts
+[2026-01-07T17:14:36.949Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\logo.svg
+[2026-01-07T17:14:36.950Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\index.tsx
+[2026-01-07T17:14:37.164Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\index.css
+[2026-01-07T17:14:37.369Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\config
+[2026-01-07T17:14:37.372Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\config\config.ts
+[2026-01-07T17:14:37.576Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components
+[2026-01-07T17:14:37.578Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\ticketdetaillist
+[2026-01-07T17:14:37.581Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\ticketdetaillist\TicketDetailList.tsx
+[2026-01-07T17:14:37.797Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\text
+[2026-01-07T17:14:37.798Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\text\Title.tsx
+[2026-01-07T17:14:38.015Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\text\TextField.tsx
+[2026-01-07T17:14:38.233Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\text\Text2.tsx
+[2026-01-07T17:14:38.437Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\text\Text1.tsx
+[2026-01-07T17:14:38.645Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\text\SubTitle.tsx
+[2026-01-07T17:14:38.857Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\text\SearchText.tsx
+[2026-01-07T17:14:39.069Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\text\CustomOutlinedInput.tsx
+[2026-01-07T17:14:39.276Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\text\BoldText.tsx
+[2026-01-07T17:14:39.489Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\styled-button
+[2026-01-07T17:14:39.490Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\styled-button\styled-button.tsx
+[2026-01-07T17:14:39.707Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\styled-button\index.ts
+[2026-01-07T17:14:39.914Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\select
+[2026-01-07T17:14:39.916Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\select\CustomUserSelect.tsx
+[2026-01-07T17:14:40.130Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\Notifications
+[2026-01-07T17:14:40.132Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\Notifications\index.tsx
+[2026-01-07T17:14:40.357Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\navigation
+[2026-01-07T17:14:40.361Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\navigation\navigation.tsx
+[2026-01-07T17:14:40.577Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\navigation\navigation.data.ts
+[2026-01-07T17:14:40.794Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\navigation\index.ts
+[2026-01-07T17:14:41.008Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\modal
+[2026-01-07T17:14:41.010Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\modal\ConfirmModal.tsx
+[2026-01-07T17:14:41.216Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\modal\BitcoinBuyModal.tsx
+[2026-01-07T17:14:41.434Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\logo
+[2026-01-07T17:14:41.436Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\logo\logo.tsx
+[2026-01-07T17:14:41.645Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\logo\FooterLogo.tsx
+[2026-01-07T17:14:41.850Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\loading
+[2026-01-07T17:14:41.854Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\loading\Loading.tsx
+[2026-01-07T17:14:42.068Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\loadable
+[2026-01-07T17:14:42.069Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\loadable\Loadable.js
+[2026-01-07T17:14:42.277Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\layout
+[2026-01-07T17:14:42.279Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\layout\Layout.tsx
+[2026-01-07T17:14:42.495Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\header
+[2026-01-07T17:14:42.497Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\header\index.ts
+[2026-01-07T17:14:42.710Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\header\header.tsx
+[2026-01-07T17:14:42.927Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\footer
+[2026-01-07T17:14:42.929Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\footer\index.ts
+[2026-01-07T17:14:43.141Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\footer\footer.tsx
+[2026-01-07T17:14:43.360Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\footer\footer-social-links.tsx
+[2026-01-07T17:14:43.567Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\footer\footer-section-title.tsx
+[2026-01-07T17:14:43.784Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\footer\footer-navigation.tsx
+[2026-01-07T17:14:43.994Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\errorboundary
+[2026-01-07T17:14:43.996Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\errorboundary\Nodata.tsx
+[2026-01-07T17:14:44.225Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\errorboundary\404.tsx
+[2026-01-07T17:14:44.428Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\course
+[2026-01-07T17:14:44.430Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\course\index.ts
+[2026-01-07T17:14:44.636Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\course\course-card-item.tsx
+[2026-01-07T17:14:44.854Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\chip
+[2026-01-07T17:14:44.855Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\chip\StatusTicket.tsx
+[2026-01-07T17:14:45.070Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\card
+[2026-01-07T17:14:45.072Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\card\BlogCard.tsx
+[2026-01-07T17:14:45.290Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\bitcoin-carousel
+[2026-01-07T17:14:45.292Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\bitcoin-carousel\bitcoin-slider.tsx
+[2026-01-07T17:14:45.513Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\components\bitcoin-carousel\bitcoin-slider.data.ts
+[2026-01-07T17:14:45.727Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\assets
+[2026-01-07T17:14:45.728Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\App.tsx
+[2026-01-07T17:14:45.948Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\App.test.tsx
+[2026-01-07T17:14:46.155Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\App.css
+[2026-01-07T17:14:46.357Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\api
+[2026-01-07T17:14:46.359Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\src\api\index.js
+[2026-01-07T17:14:46.575Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server.js
+[2026-01-07T17:14:46.788Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server
+[2026-01-07T17:14:46.791Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\server.js
+[2026-01-07T17:14:47.004Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\routes
+[2026-01-07T17:14:47.006Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\routes\api
+[2026-01-07T17:14:47.007Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\routes\api\users.js
+[2026-01-07T17:14:47.220Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\routes\api\profile.js
+[2026-01-07T17:14:47.455Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\routes\api\posts.js
+[2026-01-07T17:14:47.677Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\routes\api\auth.js
+[2026-01-07T17:14:47.896Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\models
+[2026-01-07T17:14:47.898Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\models\User.js
+[2026-01-07T17:14:48.127Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\models\Profile.js
+[2026-01-07T17:14:48.340Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\models\Post.js
+[2026-01-07T17:14:48.548Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\middleware
+[2026-01-07T17:14:48.550Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\middleware\errorHandler.js
+[2026-01-07T17:14:48.764Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\middleware\checkObjectId.js
+[2026-01-07T17:14:48.983Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\middleware\auth.js
+[2026-01-07T17:14:49.197Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\jsconfig.json
+[2026-01-07T17:14:49.404Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\config
+[2026-01-07T17:14:49.406Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\config\getContract.js
+[2026-01-07T17:14:49.625Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\config\db.js
+[2026-01-07T17:14:49.830Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\config\constant.js
+[2026-01-07T17:14:50.044Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\.prettierrc
+[2026-01-07T17:14:50.254Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\.gitignore
+[2026-01-07T17:14:50.457Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\server\.env
+[2026-01-07T17:14:50.659Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource
+[2026-01-07T17:14:50.660Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract
+[2026-01-07T17:14:50.662Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\smart contract
+[2026-01-07T17:14:50.664Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\smart contract\TokenFactory.sol
+[2026-01-07T17:14:50.878Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\smart contract\Token.sol
+[2026-01-07T17:14:51.085Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\smart contract\IToken.sol
+[2026-01-07T17:14:51.302Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\smart contract\EstokkTokenYam.sol
+[2026-01-07T17:14:51.574Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\smart contract\BrigeToken.sol
+[2026-01-07T17:14:51.807Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\__MACOSX
+[2026-01-07T17:14:51.809Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\__MACOSX\smart contract
+[2026-01-07T17:14:51.811Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\__MACOSX\smart contract\._TokenFactory.sol
+[2026-01-07T17:14:52.575Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\__MACOSX\smart contract\._Token.sol
+[2026-01-07T17:14:52.835Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\__MACOSX\smart contract\._IToken.sol
+[2026-01-07T17:14:53.060Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\__MACOSX\smart contract\._EstokkTokenYam.sol
+[2026-01-07T17:14:53.274Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\__MACOSX\smart contract\._BrigeToken.sol
+[2026-01-07T17:14:53.478Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\SmartContract\__MACOSX\._smart contract
+[2026-01-07T17:14:53.703Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\design
+[2026-01-07T17:14:53.705Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\design\yam3.psd
+[2026-01-07T17:15:06.773Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\design\yam2.psd
+[2026-01-07T17:15:10.747Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\resource\design\yam1.psd
+[2026-01-07T17:15:14.842Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\README.md
+[2026-01-07T17:15:15.066Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\public
+[2026-01-07T17:15:15.066Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\package.json
+[2026-01-07T17:15:15.282Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\package-lock.json
+[2026-01-07T17:15:17.385Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\node_modules
+[2026-01-07T17:15:17.386Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\build
+[2026-01-07T17:15:17.388Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\.vscode
+[2026-01-07T17:15:17.389Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\.logs
+[2026-01-07T17:15:17.393Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\.logs\socket_1767806014283.log
+[2026-01-07T17:15:17.606Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\.logs\ldb_1767806014270.log
+[2026-01-07T17:15:17.823Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\.logs\autoupload_1767806014301.log
+[2026-01-07T17:15:18.144Z] [LOG] fullPath C:\Users\Admin\Downloads\assessment-mode-testing-753487153358\.gitignore
+[2026-01-07T17:15:18.352Z] [LOG] fullPath C:\Users\Admin\Downloads\AnyDesk.exe
+[2026-01-07T17:15:18.353Z] [LOG] fullPath C:\Users\Admin\Downloads\2e8e05663553d0f98c704bed672425bb.jpg
+[2026-01-07T17:15:18.775Z] [LOG] fullPath C:\Users\Admin\Downloads\1763917542088.jpg
+[2026-01-07T17:15:19.013Z] [LOG] fullPath C:\Users\Admin\Downloads\1755159715235.jfif
+[2026-01-07T17:15:19.254Z] [LOG] fullPath C:\Users\Admin\OneDrive\desktop.ini
+[2026-01-07T17:15:21.503Z] [LOG] fullPath C:\Windows
+[2026-01-07T17:15:21.504Z] [LOG] fullPath C:\Users
+[2026-01-07T17:15:21.505Z] [LOG] fullPath C:\Users\Public
+[2026-01-07T17:15:21.506Z] [LOG] fullPath C:\Users\desktop.ini
+[2026-01-07T17:15:21.717Z] [LOG] fullPath C:\Users\Default User
+[2026-01-07T17:15:21.723Z] [WARN] Permission denied for C:\Users\Default User: EPERM: operation not permitted, scandir 'C:\Users\Default User'
+[2026-01-07T17:15:21.724Z] [LOG] fullPath C:\Users\Default
+[2026-01-07T17:15:21.727Z] [LOG] fullPath C:\Users\All Users
+[2026-01-07T17:15:21.731Z] [LOG] fullPath C:\Users\All Users\WindowsHolographicDevices
+[2026-01-07T17:15:21.733Z] [WARN] Permission denied for C:\Users\All Users\WindowsHolographicDevices
+[2026-01-07T17:15:21.734Z] [LOG] fullPath C:\Users\All Users\USOShared
+[2026-01-07T17:15:21.739Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs
+[2026-01-07T17:15:21.743Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User
+[2026-01-07T17:15:21.749Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.de486860-aec0-432d-ab97-f8a7e74d489a.3.etl
+[2026-01-07T17:15:21.998Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.de486860-aec0-432d-ab97-f8a7e74d489a.2.etl
+[2026-01-07T17:15:22.350Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.de486860-aec0-432d-ab97-f8a7e74d489a.1.etl
+[2026-01-07T17:15:22.676Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.7f89b417-15e8-4da1-a855-9a8fc70983d9.4.etl
+[2026-01-07T17:15:22.905Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.7f89b417-15e8-4da1-a855-9a8fc70983d9.3.etl
+[2026-01-07T17:15:23.228Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.7f89b417-15e8-4da1-a855-9a8fc70983d9.2.etl
+[2026-01-07T17:15:23.559Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.7f89b417-15e8-4da1-a855-9a8fc70983d9.1.etl
+[2026-01-07T17:15:23.926Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.72e31f11-598f-4243-b146-d22f6cd3ebc3.4.etl
+[2026-01-07T17:15:24.233Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.72e31f11-598f-4243-b146-d22f6cd3ebc3.3.etl
+[2026-01-07T17:15:24.744Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.72e31f11-598f-4243-b146-d22f6cd3ebc3.2.etl
+[2026-01-07T17:15:25.076Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.72e31f11-598f-4243-b146-d22f6cd3ebc3.1.etl
+[2026-01-07T17:15:25.579Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.6d6b5730-04db-46dc-978a-f9f0f0acb339.2.etl
+[2026-01-07T17:15:26.054Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.6d6b5730-04db-46dc-978a-f9f0f0acb339.1.etl
+[2026-01-07T17:15:26.426Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.05614836-0926-4681-b400-03c012977f9b.3.etl
+[2026-01-07T17:15:26.683Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.05614836-0926-4681-b400-03c012977f9b.2.etl
+[2026-01-07T17:15:27.089Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\UpdateUx.05614836-0926-4681-b400-03c012977f9b.1.etl
+[2026-01-07T17:15:27.575Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\ScnDialog.b1e0e2dc-7146-43d3-9196-dec10488393b.1.etl
+[2026-01-07T17:15:27.814Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\ScnDialog.9602a356-1145-4ea6-a29f-7f739fcc04aa.1.etl
+[2026-01-07T17:15:28.060Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\ScnDialog.71ab118f-e9da-4c48-be11-0afc71d0b43d.1.etl
+[2026-01-07T17:15:28.307Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\ScnDialog.4ca520ee-e02b-484c-b26f-d791e313992f.1.etl
+[2026-01-07T17:15:28.543Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\ScnDialog.46d76be3-fc55-48f8-8020-8675bddfc9c5.1.etl
+[2026-01-07T17:15:28.759Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\ScnDialog.400b80c8-649b-4928-9810-3cf883bc4862.1.etl
+[2026-01-07T17:15:28.987Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\ScnDialog.000eedda-c4d3-4f9b-9e4c-1ec30430ec41.1.etl
+[2026-01-07T17:15:29.220Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.ff45381c-730a-449c-8001-3066ff524dbf.1.etl
+[2026-01-07T17:15:29.457Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.f6be89eb-8560-40b6-964d-96435d0ff024.1.etl
+[2026-01-07T17:15:29.684Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.f44f0846-b78e-48a2-b9ac-57e198ece822.1.etl
+[2026-01-07T17:15:29.900Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.f181cbfb-4d4f-4090-aa77-261f7569573b.1.etl
+[2026-01-07T17:15:30.126Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.f13354a2-8e57-4e8d-9696-53e02787f018.1.etl
+[2026-01-07T17:15:30.369Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.ee52eeb3-1aa6-48ca-8ed3-680a3bde660d.1.etl
+[2026-01-07T17:15:30.619Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.e985f67c-20d4-43c1-8a9f-c627bf08ea49.1.etl
+[2026-01-07T17:15:30.838Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.e910204d-f258-490f-8aa4-86357911655f.1.etl
+[2026-01-07T17:15:31.067Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.e7d22fa8-1842-4e0f-8179-ac4a9460044f.1.etl
+[2026-01-07T17:15:31.306Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.e7bbab1c-380d-47e7-9ac6-a9c973cd017f.1.etl
+[2026-01-07T17:15:31.535Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.e4bb59ae-3155-4c4f-8a10-32a4f9d600b2.1.etl
+[2026-01-07T17:15:31.773Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.e32bef25-676a-48ef-874e-8e1354334046.1.etl
+[2026-01-07T17:15:32.008Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.e0a79865-c946-45b2-a60a-d7778cf7b5ba.1.etl
+[2026-01-07T17:15:32.248Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.e0735bc6-2386-4fbb-b1ec-4db5ad7b4dc9.1.etl
+[2026-01-07T17:15:32.494Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.df770a99-6656-4ed2-b882-260e7962705b.1.etl
+[2026-01-07T17:15:32.722Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.dce38bca-f0fa-41ad-8a55-f441fb801533.1.etl
+[2026-01-07T17:15:32.956Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.d74aee08-abbd-42f1-8cb0-28d2eff7947b.1.etl
+[2026-01-07T17:15:33.182Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.d747a6ed-4a3c-4f37-af66-191f59406a0e.1.etl
+[2026-01-07T17:15:33.418Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.cf82ddef-6884-4b4f-94b8-f466376fb94d.1.etl
+[2026-01-07T17:15:33.645Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.c8bcf7c7-7e99-4b83-9f4f-77b52ad6369b.1.etl
+[2026-01-07T17:15:33.873Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.c69b7d7c-0851-4022-9672-cd8dc77ba5af.1.etl
+[2026-01-07T17:15:34.105Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.c35f703e-ba32-4e65-b29c-81ef18f04cbe.1.etl
+[2026-01-07T17:15:34.342Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.c2d8f067-b688-4c67-862e-93ac1d24d7f4.1.etl
+[2026-01-07T17:15:34.599Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.c1229877-2fe8-4f27-bc5c-be53714090a9.1.etl
+[2026-01-07T17:15:34.814Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.c0573982-03f9-4555-8878-924c93833b64.1.etl
+[2026-01-07T17:15:35.042Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.bff68d99-5df8-4e2c-b410-f3d82124bcf2.1.etl
+[2026-01-07T17:15:35.270Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.bbaaf6a6-a210-42ba-8acc-4e1c098d62ce.1.etl
+[2026-01-07T17:15:35.494Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.bba308f4-a6dd-4d69-921e-e0ca063e5012.1.etl
+[2026-01-07T17:15:35.728Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.b8696099-a75c-4c6b-9214-3a304c93229c.1.etl
+[2026-01-07T17:15:35.967Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.b83d17cb-7e69-4dbe-adbe-1949a6e57c0e.1.etl
+[2026-01-07T17:15:36.208Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.b7002a2c-0fc9-4f05-a255-6d637e3f56ee.1.etl
+[2026-01-07T17:15:36.432Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.b4dac9de-c9dd-4e9b-98d5-f936d9c808b8.1.etl
+[2026-01-07T17:15:36.676Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.b35665db-a7f1-4746-bf1d-b0bc98a01638.1.etl
+[2026-01-07T17:15:36.925Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.b2787ea5-096e-4c9e-aa67-08db8a18fbb3.1.etl
+[2026-01-07T17:15:37.154Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.aee7669a-cb6b-40bb-b5fa-9a1dce242be3.1.etl
+[2026-01-07T17:15:37.383Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.ad8bda61-5175-4c9f-8fc3-cebb8dd74d74.1.etl
+[2026-01-07T17:15:37.616Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.aaacf763-70eb-4e8b-92ae-f7168f28d792.1.etl
+[2026-01-07T17:15:37.859Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.a9ad4d52-b6d8-4e86-a14b-84167df9dfba.1.etl
+[2026-01-07T17:15:38.088Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.a97393a5-3dfb-4295-9a56-6dbe0a0654c7.1.etl
+[2026-01-07T17:15:38.323Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.a9237760-bddc-4a91-b78d-afe488b8b6cb.1.etl
+[2026-01-07T17:15:38.554Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.a5efb7d0-feda-41ab-8dfa-a4fa5a13efbd.1.etl
+[2026-01-07T17:15:38.778Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.a3045705-9f26-4675-be07-cb702b43b2ec.1.etl
+[2026-01-07T17:15:39.012Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.9f963d7c-6cfc-42a9-af69-9099d75318ca.1.etl
+[2026-01-07T17:15:39.248Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.9647cba0-1191-42ef-a812-ac617e01645b.1.etl
+[2026-01-07T17:15:39.474Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.9572d440-feaa-483e-bf4b-68c4d7754da6.1.etl
+[2026-01-07T17:15:39.723Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.95168f76-a5c8-4383-b1b8-33de17559d83.1.etl
+[2026-01-07T17:15:39.958Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.8e213cf5-85d1-4f04-a30b-ba62cc32baef.1.etl
+[2026-01-07T17:15:40.193Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.8cbc8542-decc-443d-b35e-2e4314771cf8.1.etl
+[2026-01-07T17:15:40.435Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.8b5cfbe7-ace4-4e23-9c47-96ecc9c2de20.1.etl
+[2026-01-07T17:15:40.654Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.87a45b02-0aed-4bf9-b510-97d2d97f3b77.1.etl
+[2026-01-07T17:15:40.873Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.87607929-d2f1-4210-aa08-8f68e5064682.1.etl
+[2026-01-07T17:15:41.099Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.82b0cd04-0075-48d1-bfc2-4e61087f259f.1.etl
+[2026-01-07T17:15:41.327Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.82a26c6f-f5ca-41c4-9cfa-d03dc742a435.1.etl
+[2026-01-07T17:15:41.559Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.826658a5-9757-4ec0-8e62-8be202306603.1.etl
+[2026-01-07T17:15:41.790Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.814cb4c3-427d-4588-991a-ae940e36be4c.1.etl
+[2026-01-07T17:15:42.034Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.798e8b75-13e8-4fa3-9b4c-606d7b9c6bb8.1.etl
+[2026-01-07T17:15:42.254Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.730dabf4-f32b-4722-8e8d-75dfdeae104a.1.etl
+[2026-01-07T17:15:42.478Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.6f08d4bb-af8b-4a5f-8aba-4502a6acd34c.1.etl
+[2026-01-07T17:15:42.709Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.6eb0435f-fbd0-40e0-a844-4d032fe1b0ea.1.etl
+[2026-01-07T17:15:42.947Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.6d279c79-63f0-4bc8-be54-110142cec990.1.etl
+[2026-01-07T17:15:43.186Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.6c94bcad-9c2a-4ab7-9d4e-338517c355b1.1.etl
+[2026-01-07T17:15:43.423Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.6c895c00-3a25-4c9d-861d-8ec0029e6b59.1.etl
+[2026-01-07T17:15:43.659Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.6940c47e-5fc0-4ea9-9ebd-9bd75c6988ed.1.etl
+[2026-01-07T17:15:43.903Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.67683223-f8aa-4873-8461-6ee7c7bf8b1d.1.etl
+[2026-01-07T17:15:44.132Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.647f189c-a230-437b-a2bf-465df6c9a47b.1.etl
+[2026-01-07T17:15:44.359Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.60360d48-990d-4e32-9fc8-ab753ae6eef5.1.etl
+[2026-01-07T17:15:44.598Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.5140e53c-ce3f-44f2-8963-f733b6fcf922.1.etl
+[2026-01-07T17:15:44.824Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.4f845138-9fe1-413e-957e-44347f571958.1.etl
+[2026-01-07T17:15:45.054Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.4d501081-0d17-4ba4-a24e-b6d7d01d9732.1.etl
+[2026-01-07T17:15:45.283Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.4d3edc08-014e-4ac7-84a0-250b53a37874.1.etl
+[2026-01-07T17:15:45.525Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.492802c9-a46c-4dd1-bf31-897a159be095.1.etl
+[2026-01-07T17:15:45.755Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.46b732e9-dbb9-4cbc-b6b9-8049930ace1c.1.etl
+[2026-01-07T17:15:45.999Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.4625ff3d-1c4d-4012-b7c6-2fc5bf227854.1.etl
+[2026-01-07T17:15:46.223Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.43bc19bb-a598-4156-9eef-18d767264e9b.1.etl
+[2026-01-07T17:15:46.459Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.42da1533-8333-466c-b39b-863ac141e48f.1.etl
+[2026-01-07T17:15:46.695Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.41f664b7-40bc-4ff5-b616-26273a8aa25a.1.etl
+[2026-01-07T17:15:46.915Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.3f6e921d-7977-4fc1-86bf-295e55a98995.1.etl
+[2026-01-07T17:15:47.139Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.3df909d3-6c13-4d89-894f-30805f047b0b.1.etl
+[2026-01-07T17:15:47.382Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.360b9d37-df0a-4030-93e4-8ab027b6dc66.1.etl
+[2026-01-07T17:15:47.632Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.346f78dd-11ad-4074-b8bc-34099f95646b.1.etl
+[2026-01-07T17:15:47.876Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.33339415-0eec-4b3a-814b-c231c707dea9.1.etl
+[2026-01-07T17:15:48.101Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.30b1b6ba-1ece-421a-a4f4-049f20e7886e.1.etl
+[2026-01-07T17:15:48.353Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.30589ce6-7b93-4e69-a809-ff2c9bc36b48.1.etl
+[2026-01-07T17:15:48.572Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.2f73c108-a677-4634-b267-2228749a4844.1.etl
+[2026-01-07T17:15:48.806Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.295fe375-d955-44ce-a432-751c36949bb3.1.etl
+[2026-01-07T17:15:49.039Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.2839246c-6355-4155-b0f1-03782fac949b.1.etl
+[2026-01-07T17:15:49.267Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.268062f8-c9d9-4d77-bddc-3a5fdba602a9.1.etl
+[2026-01-07T17:15:49.509Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.24432b40-135c-477d-9b45-0b4103be2240.1.etl
+[2026-01-07T17:15:49.747Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.20c0ac26-6280-4e8c-8ab6-0f7e2c752c48.1.etl
+[2026-01-07T17:15:49.983Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.1f94ee8b-916f-4c0d-8dc9-9b54b3071acd.1.etl
+[2026-01-07T17:15:50.219Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.1f30d974-985b-4e0b-aadf-4920c69f38ea.1.etl
+[2026-01-07T17:15:50.463Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.1af793e6-e6d0-4f03-be63-b263d02d6931.1.etl
+[2026-01-07T17:15:50.698Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.1a0c292e-a5b3-4c2d-ae44-df6d9e5a698d.1.etl
+[2026-01-07T17:15:50.920Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.19b4a690-bda6-42a2-9ed7-4a00a26195ba.1.etl
+[2026-01-07T17:15:51.145Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.19a30d0c-e3b2-4484-b957-5702a11f3044.1.etl
+[2026-01-07T17:15:51.697Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.17508685-a721-4d90-9900-3fad12a7766f.1.etl
+[2026-01-07T17:15:51.929Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.1450979f-7907-426e-8651-78194fd9b1b7.1.etl
+[2026-01-07T17:15:52.162Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.1292644d-7307-4ec6-b3f4-3c610f549986.1.etl
+[2026-01-07T17:15:52.388Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.097ebcea-9735-4796-94ab-d636118d6cc0.1.etl
+[2026-01-07T17:15:52.619Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotifyIcon.087e4de0-ab27-4cb1-ac33-1fb4b70925a1.1.etl
+[2026-01-07T17:15:52.854Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.fe3d1820-2b0c-4da2-ae8f-abbcd217eb2e.1.etl
+[2026-01-07T17:15:53.077Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.fe098292-eb55-491f-b53a-89d6d8219c9b.1.etl
+[2026-01-07T17:15:53.319Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.fde0a340-9ef7-4e92-a592-483b5cf2e322.1.etl
+[2026-01-07T17:15:53.546Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.fcf362c0-a67b-443a-952d-9ad6289e8bec.1.etl
+[2026-01-07T17:15:53.789Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.fc7e0841-a945-45fd-89d9-4fb58eb273e6.1.etl
+[2026-01-07T17:15:54.109Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.fa13b4b8-277d-4b72-a2b2-4ea285c83dd5.1.etl
+[2026-01-07T17:15:54.339Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.f9848b29-17bc-4a1f-81ba-1464265d4ccc.1.etl
+[2026-01-07T17:15:54.582Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.f9644546-76c7-47f7-8218-f71f58d19eda.1.etl
+[2026-01-07T17:15:54.817Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.f89a5afb-7c68-42d8-b48e-d71840b736b0.1.etl
+[2026-01-07T17:15:55.059Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.f82312c9-88dd-41b8-8c71-0393a75d321d.1.etl
+[2026-01-07T17:15:55.278Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.f5ab49c5-639f-4e7e-98f8-323aa893feaf.1.etl
+[2026-01-07T17:15:55.609Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.f57bf4d0-afae-4e30-b81f-573ba66065a1.1.etl
+[2026-01-07T17:15:55.844Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.f3c45e6f-c0fb-440f-8ea4-fd9637611c9e.1.etl
+[2026-01-07T17:15:56.069Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.f278110a-2be5-4343-858b-b2d18c36b400.1.etl
+[2026-01-07T17:15:56.322Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.f0070862-58e5-455e-b85c-e36a5c6a23a1.1.etl
+[2026-01-07T17:15:56.564Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.ee3034a2-39cb-4c3e-a822-84837482b7e6.1.etl
+[2026-01-07T17:15:56.786Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.eb7046c4-29b5-4847-b209-e05f74a583b1.1.etl
+[2026-01-07T17:15:57.019Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.eb157b31-447d-4e5e-a0db-96bd314736d7.1.etl
+[2026-01-07T17:15:57.249Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.e6d112ed-04fa-4072-8533-f41f8cf0bc82.1.etl
+[2026-01-07T17:15:57.486Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.e61cf126-8039-4862-a908-83e3a0b3e217.1.etl
+[2026-01-07T17:15:57.725Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.e4026cbb-9b71-409d-88fa-fc42ce28d094.1.etl
+[2026-01-07T17:15:57.969Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.e3fe3e4d-db66-405d-91f7-c742bff001fd.1.etl
+[2026-01-07T17:15:58.230Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.df80ce9d-1a44-41e1-b257-b065d25b288e.1.etl
+[2026-01-07T17:15:58.503Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.df708334-d2ba-4606-ab7a-3996c39ef5e9.1.etl
+[2026-01-07T17:15:58.805Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.db4ec1a6-09e2-435b-bcf3-d19cd6031517.1.etl
+[2026-01-07T17:15:59.033Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.db378375-4f06-4f8e-b46e-0507fa4dcf13.1.etl
+[2026-01-07T17:15:59.583Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.d9e30279-31b9-4981-8af0-c285f905cdd5.1.etl
+[2026-01-07T17:16:00.023Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.d7ed0600-c7f8-415c-b6e2-e589f71652d0.1.etl
+[2026-01-07T17:16:00.248Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.d57ac5eb-6026-4b67-b5f9-ac07752e4482.1.etl
+[2026-01-07T17:16:00.475Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.d472c892-5ffa-4574-89cf-875d20371cbb.1.etl
+[2026-01-07T17:16:00.694Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.d0a6c057-9237-453a-982a-f811dd1da9f3.1.etl
+[2026-01-07T17:16:00.924Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.cfd0db18-7e4e-4a32-92b5-df597b49d4dc.1.etl
+[2026-01-07T17:16:01.157Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.cc64ff99-dde4-472c-b00f-46e0177ae257.1.etl
+[2026-01-07T17:16:01.393Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.cb345a09-a0ff-4da7-95bc-69e229255615.1.etl
+[2026-01-07T17:16:01.622Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.ca476022-b520-4ff5-b4f2-0b5e9fe04aa1.1.etl
+[2026-01-07T17:16:01.848Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.c81478ed-a600-4283-8787-aec7698535c9.1.etl
+[2026-01-07T17:16:02.082Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.c1c4896b-6ee7-40a8-b391-8d9d27e4fa69.1.etl
+[2026-01-07T17:16:02.299Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.c1264fe8-6930-486e-9bef-9322cdad13ec.1.etl
+[2026-01-07T17:16:02.533Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.ba8f23c1-ccc5-476c-a20a-fc972154c536.1.etl
+[2026-01-07T17:16:02.774Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.b926e7ac-0814-4670-be49-2ae6a85a142a.1.etl
+[2026-01-07T17:16:03.013Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.b5e3b886-c3f8-47f5-82ba-a489f72607ef.1.etl
+[2026-01-07T17:16:03.243Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.b47f45c3-4285-428f-b8b2-5a47cf26256d.1.etl
+[2026-01-07T17:16:03.474Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.ab5abd13-9f0f-405b-9765-3e51edf78926.1.etl
+[2026-01-07T17:16:03.696Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.a8ab0b6e-0729-442d-b9d7-d2f223a8a68c.1.etl
+[2026-01-07T17:16:03.945Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.a1dc2dfc-27a7-4bff-bfb5-defa3622149f.1.etl
+[2026-01-07T17:16:04.165Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.a157a62e-acde-417e-935c-926a312789e8.1.etl
+[2026-01-07T17:16:04.402Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.955ecedf-d85e-4e6a-b537-08e4e2793040.1.etl
+[2026-01-07T17:16:04.625Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.93102072-c02a-46d6-b8d8-a6ee59c85716.1.etl
+[2026-01-07T17:16:04.863Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.90bb1470-f26c-4b31-b310-1c4d84c7af04.1.etl
+[2026-01-07T17:16:05.094Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.8cec552e-a342-4bc8-81ac-0c9ba5608cfd.1.etl
+[2026-01-07T17:16:05.333Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.8c0e41f7-f7fb-49fa-9a21-53fef4529762.1.etl
+[2026-01-07T17:16:05.595Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.8b8573af-7be5-4c30-96a7-f579cc1b8162.1.etl
+[2026-01-07T17:16:05.825Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.818c4d51-b1d3-46a9-9660-79ff6ad93283.1.etl
+[2026-01-07T17:16:06.052Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.811afef8-0438-436e-89d4-e9496d7ee648.1.etl
+[2026-01-07T17:16:06.290Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.80579e07-8129-42cf-acd0-837a9ec95ecc.1.etl
+[2026-01-07T17:16:06.527Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.7f3dd5a7-173f-4dd7-92b4-d32fe65ae29c.1.etl
+[2026-01-07T17:16:06.774Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.783eb95a-c9fb-47ec-a26d-22aad90ed7dc.1.etl
+[2026-01-07T17:16:07.018Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.777a3afa-ccda-4554-82ec-6e9545cd0c63.1.etl
+[2026-01-07T17:16:07.245Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.76fcf508-64a5-4308-9901-66ecc1c15817.1.etl
+[2026-01-07T17:16:07.473Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.74ae3e1b-c2b2-4e9f-8c56-f3d8720d3adf.1.etl
+[2026-01-07T17:16:07.698Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.6e5e00b7-88d5-4791-9951-de47fea91e8e.1.etl
+[2026-01-07T17:16:07.933Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.6c154160-a810-47c3-89db-f343fd02b432.1.etl
+[2026-01-07T17:16:08.163Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.6b0b34b4-8a05-4d7f-b7c2-e42a160c587a.1.etl
+[2026-01-07T17:16:08.400Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.65a698f2-9c42-41a6-badf-b59dda298cae.1.etl
+[2026-01-07T17:16:08.643Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.6501de69-09bd-4579-966f-f14855158fdf.1.etl
+[2026-01-07T17:16:08.875Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.628db259-9738-41b7-bc89-2a959c83758e.1.etl
+[2026-01-07T17:16:09.106Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.5cee7084-98b9-4d3c-9241-2b46b3a94940.1.etl
+[2026-01-07T17:16:09.337Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.59fe2e2c-21cb-48f5-adf7-b13eaf10dab2.1.etl
+[2026-01-07T17:16:09.570Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.59710efe-896b-4fd1-9575-f9d60759738b.1.etl
+[2026-01-07T17:16:09.795Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.588f7172-5068-4a04-9770-4f61c1a20914.1.etl
+[2026-01-07T17:16:10.025Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.56954433-8d83-4c04-851d-33d2b1115157.1.etl
+[2026-01-07T17:16:10.269Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.5453f962-ad6f-4ec5-ac91-23c695d44d28.1.etl
+[2026-01-07T17:16:10.493Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.52f2a690-8e3d-4730-a7c9-49a4e415520d.1.etl
+[2026-01-07T17:16:10.732Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.4e0ab9dc-bfe1-42a7-ade3-33b205263241.1.etl
+[2026-01-07T17:16:10.970Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.4bffb4a8-54d0-4335-a294-07afbec0f031.1.etl
+[2026-01-07T17:16:11.212Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.4bd6d0be-1e32-4b95-bc11-3cca408d55c2.1.etl
+[2026-01-07T17:16:11.446Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.49562f51-a14c-46c2-98d8-5bdbbe562ea2.1.etl
+[2026-01-07T17:16:11.684Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.48bfe987-9280-4216-a0d3-223446c6b866.1.etl
+[2026-01-07T17:16:11.913Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.47464561-c802-46b5-b9d2-14f435fd3ff9.1.etl
+[2026-01-07T17:16:12.144Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.45d1b746-4c71-4b1c-a9e9-2e452a4a8839.1.etl
+[2026-01-07T17:16:12.385Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.40dc15db-44bb-4bdc-bfb9-99123015b7d9.1.etl
+[2026-01-07T17:16:12.607Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.3dc6ffe4-4e42-46b2-a82f-6f4c51d84a62.1.etl
+[2026-01-07T17:16:12.838Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.373086c1-2f13-4361-bd09-a586eab845ef.1.etl
+[2026-01-07T17:16:13.064Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.36980dd4-e721-4fbc-9884-154bfb5b69c7.1.etl
+[2026-01-07T17:16:13.296Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.2d248c7a-091d-4445-bbb0-489cba0075c5.1.etl
+[2026-01-07T17:16:13.536Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.28781dff-dd12-4f77-b8f4-6a2046bde43c.1.etl
+[2026-01-07T17:16:13.765Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.229d773b-63ed-4413-92d2-a488da3941c1.1.etl
+[2026-01-07T17:16:14.003Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.20f5dcc9-d42d-40ed-90a4-3d10ff87ee4e.1.etl
+[2026-01-07T17:16:14.242Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.1ebf29e2-6b63-44ee-911e-cea1b7cee257.1.etl
+[2026-01-07T17:16:14.469Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.1c982a27-2b87-44d4-9e69-956e61adf25a.1.etl
+[2026-01-07T17:16:14.695Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.1b653ab6-e222-449a-b180-8e41b157007b.1.etl
+[2026-01-07T17:16:14.933Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.186d18ec-bd50-45ca-b000-415073e6ae4a.1.etl
+[2026-01-07T17:16:15.158Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.14820b70-f8ba-4560-89d3-b3d3a181aaf0.1.etl
+[2026-01-07T17:16:15.378Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.1297e0c8-5f9f-4e31-9f1d-734ca97b2328.1.etl
+[2026-01-07T17:16:15.627Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.0bbfbb08-b351-4b08-81a6-115b951f184c.1.etl
+[2026-01-07T17:16:15.859Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.093416d3-5e84-4c38-a727-130b5db47695.1.etl
+[2026-01-07T17:16:16.084Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.04c8c37e-bcf4-4165-b385-b114cca1e458.1.etl
+[2026-01-07T17:16:16.319Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.048bb1a6-d74a-4d64-802b-1c2811843568.1.etl
+[2026-01-07T17:16:16.553Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.03a4efc0-0947-4bfd-bbb9-d3f5c19e45d6.1.etl
+[2026-01-07T17:16:16.784Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\User\NotificationUx.02b31356-3664-4a4e-821b-17c79b21fb20.1.etl
+[2026-01-07T17:16:17.028Z] [LOG] fullPath C:\Users\All Users\USOShared\Logs\System
+[2026-01-07T17:16:17.029Z] [LOG] fullPath C:\Users\All Users\USOPrivate
+[2026-01-07T17:16:17.031Z] [LOG] fullPath C:\Users\All Users\USOPrivate\UpdateStore
+[2026-01-07T17:16:17.033Z] [LOG] fullPath C:\Users\All Users\USOPrivate\UpdateStore\store.db
+[2026-01-07T17:16:17.034Z] [LOG] fullPath C:\Users\All Users\USOPrivate\ExpeditedAppRegistrations
+[2026-01-07T17:16:17.036Z] [LOG] fullPath C:\Users\All Users\USOPrivate\ExpeditedAppRegistrations\MS_Outlook
+[2026-01-07T17:16:17.038Z] [LOG] fullPath C:\Users\All Users\USOPrivate\ExpeditedAppRegistrations\MS_Outlook\updater_Outlook.json
+[2026-01-07T17:16:17.257Z] [LOG] fullPath C:\Users\All Users\Templates
+[2026-01-07T17:16:17.263Z] [WARN] Permission denied for C:\Users\All Users\Templates: EPERM: operation not permitted, scandir 'C:\Users\All Users\Templates'
+[2026-01-07T17:16:17.264Z] [LOG] fullPath C:\Users\All Users\Start Menu
+[2026-01-07T17:16:17.268Z] [WARN] Permission denied for C:\Users\All Users\Start Menu: EPERM: operation not permitted, scandir 'C:\Users\All Users\Start Menu'
+[2026-01-07T17:16:17.268Z] [LOG] fullPath C:\Users\All Users\ssh
+[2026-01-07T17:16:17.270Z] [LOG] fullPath C:\Users\All Users\SoftwareDistribution
+[2026-01-07T17:16:17.272Z] [LOG] fullPath C:\Users\All Users\regid.1991-06.com.microsoft
+[2026-01-07T17:16:17.274Z] [LOG] fullPath C:\Users\All Users\regid.1991-06.com.microsoft\regid.1991-06.com.microsoft_Windows-10-Home-Single-Language.swidtag
+[2026-01-07T17:16:17.487Z] [LOG] fullPath C:\Users\All Users\Packages
+[2026-01-07T17:16:17.488Z] [WARN] Permission denied for C:\Users\All Users\Packages
+[2026-01-07T17:16:17.488Z] [LOG] fullPath C:\Users\All Users\Microsoft OneDrive
+[2026-01-07T17:16:17.490Z] [LOG] fullPath C:\Users\All Users\Microsoft OneDrive\setup
+[2026-01-07T17:16:17.492Z] [LOG] fullPath C:\Users\All Users\Microsoft OneDrive\setup\refcount.ini
+[2026-01-07T17:16:17.707Z] [LOG] fullPath C:\Users\All Users\Microsoft
+[2026-01-07T17:16:17.707Z] [LOG] fullPath C:\Users\All Users\Intel
+[2026-01-07T17:16:17.708Z] [LOG] fullPath C:\Users\All Users\Documents
+[2026-01-07T17:16:17.711Z] [WARN] Permission denied for C:\Users\All Users\Documents: EPERM: operation not permitted, scandir 'C:\Users\All Users\Documents'
+[2026-01-07T17:16:17.712Z] [LOG] fullPath C:\Users\All Users\Desktop
+[2026-01-07T17:16:17.715Z] [WARN] Permission denied for C:\Users\All Users\Desktop: EPERM: operation not permitted, scandir 'C:\Users\All Users\Desktop'
+[2026-01-07T17:16:17.715Z] [LOG] fullPath C:\Users\All Users\Application Data
+[2026-01-07T17:16:17.718Z] [LOG] fullPath C:\Users\All Users\AnyDesk
+[2026-01-07T17:16:17.720Z] [LOG] fullPath C:\Users\All Users\AnyDesk\system.conf.lock
+[2026-01-07T17:16:17.934Z] [LOG] fullPath C:\Users\All Users\AnyDesk\system.conf
+[2026-01-07T17:16:18.153Z] [LOG] fullPath C:\Users\All Users\AnyDesk\service.conf.lock
+[2026-01-07T17:16:18.368Z] [LOG] fullPath C:\Users\All Users\AnyDesk\service.conf
+[2026-01-07T17:16:18.591Z] [LOG] fullPath C:\Users\All Users\AnyDesk\file_transfer_trace.txt
+[2026-01-07T17:16:18.805Z] [LOG] fullPath C:\Users\All Users\AnyDesk\connection_trace.txt
+[2026-01-07T17:16:19.063Z] [LOG] fullPath C:\Users\All Users\AnyDesk\cache
+[2026-01-07T17:16:19.064Z] [LOG] fullPath C:\Users\All Users\AnyDesk\ad_svc.trace
+[2026-01-07T17:16:24.473Z] [LOG] fullPath C:\Users\Admin
+[2026-01-07T17:16:24.474Z] [LOG] fullPath C:\Users\Admin\Videos
+[2026-01-07T17:16:24.475Z] [LOG] fullPath C:\Users\Admin\Templates
+[2026-01-07T17:16:24.478Z] [WARN] Permission denied for C:\Users\Admin\Templates: EPERM: operation not permitted, scandir 'C:\Users\Admin\Templates'
+[2026-01-07T17:16:24.479Z] [LOG] fullPath C:\Users\Admin\Start Menu
+[2026-01-07T17:16:24.482Z] [WARN] Permission denied for C:\Users\Admin\Start Menu: EPERM: operation not permitted, scandir 'C:\Users\Admin\Start Menu'
+[2026-01-07T17:16:24.482Z] [LOG] fullPath C:\Users\Admin\SendTo
+[2026-01-07T17:16:24.486Z] [WARN] Permission denied for C:\Users\Admin\SendTo: EPERM: operation not permitted, scandir 'C:\Users\Admin\SendTo'
+[2026-01-07T17:16:24.486Z] [LOG] fullPath C:\Users\Admin\Searches
+[2026-01-07T17:16:24.488Z] [LOG] fullPath C:\Users\Admin\Searches\winrt--{S-1-5-21-3246702916-242624359-1750275607-1001}-.searchconnector-ms
+[2026-01-07T17:16:24.707Z] [LOG] fullPath C:\Users\Admin\Searches\Indexed Locations.search-ms
+[2026-01-07T17:16:24.910Z] [LOG] fullPath C:\Users\Admin\Searches\Everywhere.search-ms
+[2026-01-07T17:16:25.133Z] [LOG] fullPath C:\Users\Admin\Searches\desktop.ini
+[2026-01-07T17:16:25.362Z] [LOG] fullPath C:\Users\Admin\Saved Games
+[2026-01-07T17:16:25.363Z] [LOG] fullPath C:\Users\Admin\Recent
+[2026-01-07T17:16:25.366Z] [WARN] Permission denied for C:\Users\Admin\Recent: EPERM: operation not permitted, scandir 'C:\Users\Admin\Recent'
+[2026-01-07T17:16:25.366Z] [LOG] fullPath C:\Users\Admin\PrintHood
+[2026-01-07T17:16:25.371Z] [WARN] Permission denied for C:\Users\Admin\PrintHood: EPERM: operation not permitted, scandir 'C:\Users\Admin\PrintHood'
+[2026-01-07T17:16:25.371Z] [LOG] fullPath C:\Users\Admin\Pictures
+[2026-01-07T17:16:25.372Z] [LOG] fullPath C:\Users\Admin\OneDrive
+[2026-01-07T17:16:25.373Z] [LOG] fullPath C:\Users\Admin\ntuser.ini
+[2026-01-07T17:16:25.582Z] [LOG] fullPath C:\Users\Admin\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+[2026-01-07T17:16:27.268Z] [LOG] fullPath C:\Users\Admin\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+[2026-01-07T17:16:28.618Z] [LOG] fullPath C:\Users\Admin\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+[2026-01-07T17:16:28.988Z] [LOG] fullPath C:\Users\Admin\ntuser.dat.LOG2
+[2026-01-07T17:16:28.994Z] [ERROR] Failed to upload C:\Users\Admin\ntuser.dat.LOG2: EBUSY: resource busy or locked, open 'C:\Users\Admin\ntuser.dat.LOG2'
+[2026-01-07T17:16:29.021Z] [LOG] fullPath C:\Users\Admin\ntuser.dat.LOG1
+[2026-01-07T17:16:29.025Z] [ERROR] Failed to upload C:\Users\Admin\ntuser.dat.LOG1: EBUSY: resource busy or locked, open 'C:\Users\Admin\ntuser.dat.LOG1'
+[2026-01-07T17:16:29.052Z] [LOG] fullPath C:\Users\Admin\NTUSER.DAT
+[2026-01-07T17:16:29.055Z] [ERROR] Failed to upload C:\Users\Admin\NTUSER.DAT: EBUSY: resource busy or locked, open 'C:\Users\Admin\NTUSER.DAT'
+[2026-01-07T17:16:29.083Z] [LOG] fullPath C:\Users\Admin\NetHood
+[2026-01-07T17:16:29.088Z] [WARN] Permission denied for C:\Users\Admin\NetHood: EPERM: operation not permitted, scandir 'C:\Users\Admin\NetHood'
+[2026-01-07T17:16:29.088Z] [LOG] fullPath C:\Users\Admin\My Documents
+[2026-01-07T17:16:29.091Z] [LOG] fullPath C:\Users\Admin\Music
+[2026-01-07T17:16:29.091Z] [LOG] fullPath C:\Users\Admin\Local Settings
+[2026-01-07T17:16:29.093Z] [WARN] Permission denied for C:\Users\Admin\Local Settings: EPERM: operation not permitted, scandir 'C:\Users\Admin\Local Settings'
+[2026-01-07T17:16:29.094Z] [LOG] fullPath C:\Users\Admin\Links
+[2026-01-07T17:16:29.095Z] [LOG] fullPath C:\Users\Admin\Links\Downloads.lnk
+[2026-01-07T17:16:29.095Z] [LOG] fullPath C:\Users\Admin\Links\Desktop.lnk
+[2026-01-07T17:16:29.096Z] [LOG] fullPath C:\Users\Admin\Links\desktop.ini
+[2026-01-07T17:16:29.523Z] [LOG] fullPath C:\Users\Admin\IntelGraphicsProfiles
+[2026-01-07T17:16:29.524Z] [LOG] fullPath C:\Users\Admin\IntelGraphicsProfiles\Enhance Video Colors.man.igpi
+[2026-01-07T17:16:29.762Z] [LOG] fullPath C:\Users\Admin\IntelGraphicsProfiles\Darken Video.man.igpi
+[2026-01-07T17:16:30.016Z] [LOG] fullPath C:\Users\Admin\IntelGraphicsProfiles\Brighten Video.man.igpi
+[2026-01-07T17:16:30.243Z] [LOG] fullPath C:\Users\Admin\Favorites
+[2026-01-07T17:16:30.245Z] [LOG] fullPath C:\Users\Admin\Favorites\Links
+[2026-01-07T17:16:30.247Z] [LOG] fullPath C:\Users\Admin\Favorites\Links\desktop.ini
+[2026-01-07T17:16:30.476Z] [LOG] fullPath C:\Users\Admin\Favorites\desktop.ini
+[2026-01-07T17:16:30.723Z] [LOG] fullPath C:\Users\Admin\Favorites\Bing.url
+[2026-01-07T17:16:30.957Z] [LOG] fullPath C:\Users\Admin\Downloads
+[2026-01-07T17:16:30.958Z] [LOG] fullPath C:\Users\Admin\Documents
+[2026-01-07T17:16:30.959Z] [LOG] fullPath C:\Users\Admin\Desktop
+[2026-01-07T17:16:30.959Z] [LOG] fullPath C:\Users\Admin\Cookies
+[2026-01-07T17:16:30.962Z] [WARN] Permission denied for C:\Users\Admin\Cookies: EPERM: operation not permitted, scandir 'C:\Users\Admin\Cookies'
+[2026-01-07T17:16:30.963Z] [LOG] fullPath C:\Users\Admin\Contacts
+[2026-01-07T17:16:30.964Z] [LOG] fullPath C:\Users\Admin\Contacts\desktop.ini
+[2026-01-07T17:16:31.183Z] [LOG] fullPath C:\Users\Admin\Application Data
+[2026-01-07T17:16:31.186Z] [WARN] Permission denied for C:\Users\Admin\Application Data: EPERM: operation not permitted, scandir 'C:\Users\Admin\Application Data'
+[2026-01-07T17:16:31.186Z] [LOG] fullPath C:\Users\Admin\AppData
+[2026-01-07T17:16:31.187Z] [LOG] fullPath C:\Users\Admin\3D Objects
+[2026-01-07T17:16:31.188Z] [LOG] fullPath C:\Users\Admin\3D Objects\desktop.ini
+[2026-01-07T17:16:31.477Z] [LOG] fullPath C:\Users\Admin\.vscode
+[2026-01-07T17:16:31.478Z] [LOG] fullPath C:\Users\Admin\.tmp
+[2026-01-07T17:16:31.479Z] [LOG] fullPath C:\System Volume Information
+[2026-01-07T17:16:31.479Z] [WARN] Permission denied for C:\System Volume Information
+[2026-01-07T17:16:31.480Z] [LOG] fullPath C:\swapfile.sys
+[2026-01-07T17:16:31.481Z] [LOG] fullPath C:\Recovery
+[2026-01-07T17:16:31.481Z] [LOG] fullPath C:\ProgramData
+[2026-01-07T17:16:31.482Z] [LOG] fullPath C:\Program Files (x86)
+[2026-01-07T17:16:31.483Z] [LOG] fullPath C:\Program Files
+[2026-01-07T17:16:31.483Z] [LOG] fullPath C:\PerfLogs
+[2026-01-07T17:16:31.484Z] [WARN] Permission denied for C:\PerfLogs
+[2026-01-07T17:16:31.485Z] [LOG] fullPath C:\pagefile.sys
+[2026-01-07T17:16:31.485Z] [LOG] fullPath C:\Intel
+[2026-01-07T17:16:31.486Z] [LOG] fullPath C:\inetpub
+[2026-01-07T17:16:31.487Z] [LOG] fullPath C:\hiberfil.sys
+[2026-01-07T17:16:31.488Z] [LOG] fullPath C:\DumpStack.log.tmp
+[2026-01-07T17:16:31.488Z] [LOG] fullPath C:\Documents and Settings
+[2026-01-07T17:16:31.490Z] [LOG] fullPath C:\AiOLog.txt
+[2026-01-07T17:16:31.721Z] [LOG] fullPath C:\$WinREAgent
+[2026-01-07T17:16:31.722Z] [LOG] fullPath C:\$WinREAgent\Scratch
+[2026-01-07T17:16:31.724Z] [LOG] fullPath C:\$Recycle.Bin
